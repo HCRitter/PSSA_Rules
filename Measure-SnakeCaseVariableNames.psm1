@@ -14,8 +14,8 @@ Specifies the abstract syntax tree (AST) of the script block to analyze. This pa
 This example parses a script file and analyzes it for snake_case variable names.
 
 .NOTES
-Author: Your Name
-Date: Today's Date
+Author: Christian Ritter (@HCRitter)
+Date: 10/2/2025
 Version: 1.0
 
 #>
